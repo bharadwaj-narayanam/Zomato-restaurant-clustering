@@ -39,3 +39,9 @@ India is quite famous for its diverse multi cuisine available in a large number 
 - Did the pre-processing, Clubbed some cuisines together so that one-hot encoding would be possible.
 - Removed the unwanted variables and Normalized the data.
 - Clustered the data using K-means as well as Hierarchical clustering.
+
+## Summary
+- The best model we found out is Logistic regression for sentiment analysis.
+- We can say that restaurants that are open most of the time are relatively costlier.
+- Optimum number of clusters is 3 using elbow analysis and 4 by using silhouette score.
+- In our case 4 clusters were best to cluster the data.
